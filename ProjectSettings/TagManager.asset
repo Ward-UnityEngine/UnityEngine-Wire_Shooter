@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WireLeader
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Weapons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGroundFloor
+    uniqueID: 2756668367
+    locked: 0
+  - name: BackGroundTop
+    uniqueID: 754103089
+    locked: 0
+  - name: Wire
+    uniqueID: 1990223059
+    locked: 0
+  - name: Monsters
+    uniqueID: 3059368791
+    locked: 0
+  - name: Player
+    uniqueID: 1262237239
+    locked: 0
+  - name: Weapons
+    uniqueID: 2745314719
+    locked: 0
+  - name: Obstacle
+    uniqueID: 1424273927
+    locked: 0
